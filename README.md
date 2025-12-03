@@ -1,3 +1,6 @@
+Nombre: Jean Pierre Mora
+Fecha: 02-12-2025
+
 El proyecto es una aplicación web moderna construida con React que muestra listas y detalles de publicaciones (posts).
 
 El principal éxito de este trabajo es la aplicación de buenas prácticas de desarrollo profesional para crear un código limpio, escalable y fácil de mantener.
